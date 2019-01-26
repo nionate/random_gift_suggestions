@@ -1,6 +1,6 @@
 class Suggestor
 
   def self.hello_world
-    "Hello world"
+    "Hello world "
   end
 end
